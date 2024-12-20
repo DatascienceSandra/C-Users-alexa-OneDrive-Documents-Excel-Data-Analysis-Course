@@ -1,3 +1,13 @@
+# H1
+## H2
+### H3
+
+**Bold Text **   
+*italicized text *
+
+https://github.com/lukebarousse/Excel_Data_Analytics_Course/blob/main/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif
+
+
 Excel Salary Dashboard
 1_Salary_Dashboard.png
 
